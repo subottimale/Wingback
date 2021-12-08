@@ -1,4 +1,4 @@
-# Wingback - the absolute oddball of my 30% keyboard family
+# Wingback - taking inspiration from a chair, as you do
 What happens when you take an Alphalpha+ (https://github.com/subottimale/alphalpha_plus.git) and add inspiration from the iconic QAZ and my grandmother's wingback chair?
 This suprisingly comfortable, annoying-to-kit lil' fella:
 
