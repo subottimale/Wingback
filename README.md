@@ -5,3 +5,5 @@ This suprisingly comfortable, annoying-to-kit lil' fella:
 ![WIngback v2 Tray](https://user-images.githubusercontent.com/69826495/156269508-9362f4d6-4923-4bed-a268-091e809dcf56.jpg)
 
 ![Wingback 3DP tray](https://user-images.githubusercontent.com/69826495/147185627-b8d3b1de-002f-4b3e-82e3-918e9527fc19.png)
+
+![WIngback KLE](https://user-images.githubusercontent.com/69826495/157144614-ff3f993a-2254-4b79-9370-2dc07cfc65a1.png)
